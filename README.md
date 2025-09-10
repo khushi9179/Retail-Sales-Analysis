@@ -1,2 +1,8 @@
-# Retail-Sales-Analysis
-I developed a comprehensive project on Customer Transaction Analysis and RFM (Recency, Frequency, Monetary) Segmentation using a retail transactional dataset, by creating a Interactive dashboard to analyze the data.
+# Retail-Sales-Data-Analysis
+
+## Project Overview
+This project analyzes **retail sales data**and identified key patterns through **RFM segmentation** using **Python, SQL, and Excel** Includes data cleaning, exploratory analysis, visualizations, Excel dashboard, and presentation for business insights.
+The project is a part of my **Internship Studio Data Analytics Internship**.
+
+
+
